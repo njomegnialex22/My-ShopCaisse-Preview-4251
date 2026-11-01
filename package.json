@@ -1,0 +1,15 @@
+{
+  "name": "my-shopcaisse-cloud",
+  "version": "4.2.5.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0"
+  },
+  "devDependencies": {
+    "vercel": "^48.0.0"
+  }
+}
